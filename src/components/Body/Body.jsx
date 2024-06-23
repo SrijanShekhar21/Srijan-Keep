@@ -23,6 +23,8 @@ function Body() {
       setItems((prev) => {
         return [...prev, { title: TitleInput, content: ContentInput }];
       });
+    setTitleInput("");
+    setContentInput("");
     console.log("Item added");
   }
 
