@@ -1,7 +1,7 @@
 {
-  "homepage": "https://SrijanShekhar21.github.io/keeperApp",
+  "homepage": "https://SrijanShekhar21.github.io/keeperapp",
   "name": "keeperapp",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
